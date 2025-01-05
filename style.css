@@ -1,0 +1,26 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+h1
+{
+    text-align: center;
+    margin:50px;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
+}
+div
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+    color: blue;
+}
